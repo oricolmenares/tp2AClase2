@@ -1,0 +1,14 @@
+{
+  "name": "tp2aclase2",
+  "version": "1.0.0",
+  "description": "clase2",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
