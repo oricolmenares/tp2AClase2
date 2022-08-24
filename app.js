@@ -1,3 +1,8 @@
 let src = require('./src/src');
 
-console.log(src.getValue("int"));
+try {
+  console.log(src.getValue("algo"));
+
+} catch(err){
+  console.log(err.message)
+}
